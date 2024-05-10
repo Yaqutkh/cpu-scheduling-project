@@ -1,0 +1,18 @@
+﻿  EX.cpp
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(58,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(102,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(109,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(129,20): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(129,20): warning C4244:         with
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(129,20): warning C4244:         [
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(129,20): warning C4244:             _Ty=double
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(129,20): warning C4244:         ]
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(130,21): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(130,21): warning C4244:         with
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(130,21): warning C4244:         [
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(130,21): warning C4244:             _Ty=double
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(130,21): warning C4244:         ]
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(138,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(170,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\EX1\EX1\EX.cpp(289,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  EX1.vcxproj -> C:\Users\hp\source\repos\EX1\x64\Debug\EX1.exe
